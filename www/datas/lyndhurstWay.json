@@ -1,0 +1,32 @@
+{
+    "additionalInfo": "South East London", 
+    "Area": {
+        "Postcode": "SE15 To SE27", 
+        "NearbyStation": "Nunhead"
+    }, 
+    "runNumber": [
+       42
+    ], 
+     
+
+
+    
+    "id": "lyndhurstWay", 
+    "images": [
+        "img/phones/lyndhurstWay-42.0.jpg",
+        "img/phones/lyndhurstWay-42.1.jpg",
+        "img/phones/lyndhurstWay-42.2.jpg",
+        "img/phones/lyndhurstWay-42.3.jpg",
+        "img/phones/lyndhurstWay-42.4.jpg"
+        
+       
+    ], 
+    "name": "Lyndhurst Way SE15 To Royal Circus SE27", 
+    "direction":
+    "L/BY______Holly Grove, R______Bellenden Road, L______Maxted Road, R______Nutbrook Street, L______ADY'S Road, COM______Goose Green R/BOUT, L/BY______Lordship Lane, R______East Dulwich Grove, L______Dulwich Village, B/R______Gallery Road, R______Thurlow Park Road, L______Lancaster Avenue, F______York Hill,  ROYAL CIRCUS FACING"
+    
+    
+    
+
+         
+}

@@ -1,0 +1,30 @@
+{
+    "additionalInfo": "Central London", 
+    "Area": {
+        "Postcode": "SW6 W11", 
+        "NearbyStation": "Fulham Broadway"
+    }, 
+    "runNumber": [
+       20
+    ], 
+     
+
+
+    
+    "id": "fulham", 
+    "images": [
+        "img/phones/fulham-20.0.jpg",
+        "img/phones/fulham-20.1.jpg",
+        "img/phones/fulham-20.2.jpg",
+        "img/phones/fulham-20.3.jpg",
+        "img/phones/fulham-20.4.jpg"
+        
+       
+    ], 
+    "name": "Fulham High Street Sw6 To Powis Square W11", 
+    "direction":
+    "L/BY R______Fulham Rd, L______Munster Road, R______Filmer Road, B/R______Sherbrooke Road, L______Rylston Road, R______Lillie Road, L______North End Road, R______Hammersmith Road, F______Addison Bridge, F______Kensington High Street, L______Holland Road, R______Addison Crescent, L______Addison Road, F______Holland Park Gardens, R______Holland Park Avenue, L______Ladbroke Grove, R______Elgin Crescent, F______Colville Terrace, POWIS SQUARE ON LEFT"
+    
+    
+    
+}

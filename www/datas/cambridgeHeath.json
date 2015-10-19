@@ -1,0 +1,32 @@
+{
+    "additionalInfo": "East London", 
+    "Area": {
+        "Postcode": "E2 To E14", 
+        "NearbyStation": "Bethnal Green"
+    }, 
+    "runNumber": [
+       52
+    ], 
+     
+
+
+    
+    "id": "cambridgeHeath", 
+    "images": [
+        "img/phones/cambridgeHeath-52.0.jpg",
+        "img/phones/cambridgeHeath-52.1.jpg",
+        "img/phones/cambridgeHeath-52.2.jpg",
+        "img/phones/cambridgeHeath-52.3.jpg",
+        "img/phones/cambridgeHeath-52.4.jpg"
+        
+       
+    ], 
+    "name": "Cambridge Heath Station E2 To Mudchute Station E14", 
+    "direction":
+    "LOL______Cambridge Heath Road, L______Hackney Road, L______Clare Street, L______Old Bethnal Green Road, R______Cambridge Heath Road, L______Old ford Road, R______Victoria Park Square, L______Roman Road, R______Globe Road, L______Mile End Road, R______White Horse Lane, COM______ROUNDABOUT, L/BY F______Stepney High Street, F______Belgrave Street, L______Commercial Road, R______Butcher'S Row, L______Limehouse Link, L______Westferry Road Slip, R______Westferry Road, COM______Westferry CIRCUS, L/BY______Westferry Road CONT'D, COM______Heron CIRCUS, L/BY______Westferry Road CONT'D, L______Spindrift Avenue, L______Eastferry Road,  MUDCHUTE STATION ON LEFT"
+    
+    
+    
+
+         
+}

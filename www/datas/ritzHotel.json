@@ -1,0 +1,44 @@
+{
+    "additionalInfo": "Central London", 
+    "Area": {
+        "Postcode": "W1", 
+        "NearbyStation": "Piccadilly"
+    }, 
+    "runNumber": [
+       8
+    ], 
+     
+
+
+    
+    "id": "ritzHotel", 
+    "images": [
+        "img/phones/ritzHotel-8.0.jpg",
+        "img/phones/ritzHotel-8.1.jpg",
+        "img/phones/ritzHotel-8.2.jpg",
+        "img/phones/ritzHotel-8.3.jpg"
+        
+        
+       
+    ], 
+    "name": "Ritz Hotel Sw1 To Battersea Park Station Sw8", 
+    "direction":[
+    "LOL______Arlington Street",
+    "L________Piccadilly",
+    "L________Duke Of Wellington Place",
+    "L________Grosvenor Place",
+    "L________Lower Grosvenor Place",
+    "R________Buckingham Palace Road",
+    "F________Ebury Bridge Road",
+    "L________Chelsea Bridge Road",
+    "F________Chelsea Bridge",
+    "F________Queenstown Road",
+    "COM______R/BOUT",
+    "L/BY________Queenstown Road",
+    "L________Battersea Park Road",
+    "SDOL"
+    
+    ]
+    
+    
+}

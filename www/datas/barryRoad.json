@@ -1,0 +1,32 @@
+{
+    "additionalInfo": "South East London", 
+    "Area": {
+        "Postcode": "SE22 TO SE11", 
+        "NearbyStation": "East Dulwich"
+    }, 
+    "runNumber": [
+       40
+    ], 
+     
+
+
+    
+    "id": "barryRoad", 
+    "images": [
+        "img/phones/barryRoad-40.0.jpg",
+        "img/phones/barryRoad-40.1.jpg",
+        "img/phones/barryRoad-40.2.jpg",
+        "img/phones/barryRoad-40.3.jpg",
+        "img/phones/barryRoad-40.4.jpg"
+        
+       
+    ], 
+    "name": "Barry Road SE22 To Kennington Cross SE11", 
+    "direction":
+    "L BY L______Underhill Road, F______Whateley Road, R______Lordship Lane, COM______Goose Green R/BOUT, L/BY______Grove Vale, F______Dog Kennel Hill, F______Grove Lane, L______Champion Park, R______Denmark Hill, L______Camberwell New Road, L______Brixton Road, R______Prima, R______Kennington Park Road, L______Kennington Road,  KENNINGTON CROSS FACING"
+    
+    
+    
+
+         
+}

@@ -1,0 +1,59 @@
+ 
+<ion-header-bar ng-controller="ListController"  class="bar-positive">
+      <button class="button icon-left ion-home ">home</button>
+        <h1 class="title">London Taxi Routes</h1>      
+</ion-header-bar>
+      <div class="bar bar-subheader
+       item-input-inset bar-light">
+       <label class="item-input-wrapper">
+         <i class="icon ion-search placeholder-icon"></i>
+         <input type="search" ng-model="query" placeholder="Search a Run">
+       </label>
+        
+      </div>
+<ion-content  class="padding has-subheader">
+   <ion-refresher on-refresh="doRefresh()">
+   </ion-refresher>
+      
+      <div>
+        <h2>Glossary Of Terms</h2>
+      </div>
+
+      <table>
+        
+        
+        <tr>
+         <td>LOL - Leave on Left</td>
+         <td>SDOR -Set Down On Right</td>
+         <td>L     -Left</td>
+         </tr>
+        <tr>
+         <td>LOR - Leave on Right</td> 
+         <td>B/R - Bear Right</td> 
+         <td>F     -Forward</td> 
+        </tr>
+        <tr>
+         <td>Com - Comply</td>
+         <td>B/L - Bear Left</td>
+         <td>L/by  -Leave By</td>
+        </tr> 
+         <tr>
+          <td>SDOL - Set Down On Left</td>
+          <td>R - Right</td>
+          <td>F &#38 R</td>
+         </tr>
+      </table>
+  <ion-list>  
+    <ion-item ng-repeat='item in runs | filter: query'
+     class="item-thumbnail-left item-text-wrap" href="#/tab/list/{{item.id}}">
+      <img ng-src="{{item.imageUrl}}" alt="{{item.name}} Photo"> 
+      <h2>{{item.name}}</h2>
+      <h3>{{item.description}}</h3>
+      <p>{{item.poi | limitTo:200}}</p>
+      {{item.poi.length > 100 ? '&hellip;' : ''}}
+
+    </ion-item>
+  </ion-list> 
+</ion-content>
+
+  

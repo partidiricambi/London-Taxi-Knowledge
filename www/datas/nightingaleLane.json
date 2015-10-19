@@ -1,0 +1,42 @@
+{
+    "additionalInfo": "South West", 
+    "Area": {
+        "Postcode": "SW12 SW3", 
+        "NearbyStation": "Clapham South"
+    }, 
+    "runNumber": [
+       25
+    ], 
+     
+
+
+    
+    "id": "nightingaleLane", 
+    "images": [
+        "img/phones/nightingaleLane-25.0.jpg",
+        "img/phones/nightingaleLane-25.1.jpg",
+        "img/phones/nightingaleLane-25.2.jpg",
+        "img/phones/nightingaleLane-25.3.jpg",
+        "img/phones/nightingaleLane-25.4.jpg"
+        
+       
+    ], 
+    "name": "Nightingale Lane SW12 To Carlye Sq SW3", 
+    "direction":[
+    "L/BY______Nightingale Walk",
+    "L______The Avenue",
+    "L & R______Clapham Common W Side",
+    "R______Clapham Common N Side ",
+    "L______Elspeth Road",
+    "F______Latchmere Road",
+    "F______Battersea Bridge Road",
+    "F______Battersea Bridge",
+    "F______Beaufort Street",
+    "R______King's Road",
+    "L______Old Church Street",
+    
+
+     "CARLYLE SQUARE ON RIGHT"
+    ]
+    
+}

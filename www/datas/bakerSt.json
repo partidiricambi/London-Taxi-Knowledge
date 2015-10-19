@@ -1,0 +1,30 @@
+{
+    "additionalInfo": "Central London", 
+    "Area": {
+        "Postcode": "NW1 SW1", 
+        "NearbyStation": "Marylaborne"
+    }, 
+    "runNumber": [
+       18
+    ], 
+     
+
+
+    
+    "id": "bakerSt", 
+    "images": [
+        "img/phones/bakerSt-18.0.jpg",
+        "img/phones/bakerSt-18.1.jpg",
+        "img/phones/bakerSt-18.2.jpg",
+        "img/phones/bakerSt-18.3.jpg",
+        "img/phones/bakerSt-18.4.jpg"
+        
+       
+    ], 
+    "name": "BAKER ST STATION NW1 TO HALKIN ST SW1", 
+    "direction":"LOL______Marylebone Road, L______Allsop Place, L______Baker Street, F______Portman Square, F______Orchard Street, F______North Audley Street, R______Green Street, L______Park Lane, L______Hyde Park Corner, R______Duke Of Wellington Place, L______Grosvenor Place, R______Chapel Street, R______Headford Place, HALKIN STREET ON LEFT"
+    
+    
+    
+         
+}

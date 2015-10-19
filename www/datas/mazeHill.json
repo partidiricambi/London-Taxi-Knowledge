@@ -1,0 +1,29 @@
+{
+    "additionalInfo": "East London", 
+    "Area": {
+        "Postcode": "SE10 E15", 
+        "NearbyStation": "Maze Hill"
+    }, 
+    "runNumber": [
+       15
+    ], 
+     
+
+
+    
+    "id": "mazeHill", 
+    "images": [
+        "img/phones/mazeHill-15.0.jpg",
+        "img/phones/mazeHill-15.1.jpg",
+        "img/phones/mazeHill-15.2.jpg",
+        "img/phones/mazeHill-15.3.jpg",
+        "img/phones/mazeHill-15.4.jpg"
+        
+       
+    ], 
+    "name": "Maze Hill Station SE10 To Abbey Road E15", 
+    "direction":"LVR ON R_____Tom Smith Close, R_____Maze Hill, R_____Trafalgar Rd, L_____Blackwall Lane, L_____Blackwall Tunnel Sth App, F_____Blackwall Tunnel, F_____Blackwall Tunnel Nth App, L_____St Leonard's Road, L_____East India Dock Rd, F_____Newham Way, F_____Barking Road, COMPLY___Canning Town Junction, LIVE BY__Manor Road, L_____Mitre Road, FORWARD INTO ABBEY ROAD"
+    
+    
+    
+}

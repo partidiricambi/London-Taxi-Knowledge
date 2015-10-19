@@ -1,0 +1,30 @@
+{
+    "additionalInfo": "East Central", 
+    "Area": {
+        "Postcode": "EC2", 
+        "NearbyStation": "Barbican"
+    }, 
+    "runNumber": [
+       12
+    ], 
+     
+
+
+    
+    "id": "barbican", 
+    "images": [
+        "img/phones/barbican-12.0.jpg",
+        "img/phones/barbican-12.1.jpg",
+        "img/phones/barbican-12.2.jpg",
+        "img/phones/barbican-12.3.jpg",
+        "img/phones/barbican-12.4.jpg"
+        
+       
+    ], 
+    "name": "Barbican EC2 To Mile End Station E3", 
+    "direction":
+    "LOR______Silk, L________Moor Lane, R________Ropemaker Street, F________South Place, F________Eldon Street, R_____Blomfield Street, L_______London Wall, F________Wormwood Street, F________Camomile Street, L________Outwich Street, R________Hounsditch, L________St Botolph Street, R________Middlesex Street, L________Whitechapel High Street, F________Whitechapel Road, F________Mile End Road, R_______Burdett Road, L_______Hamlets Way, L_______Southern Grove, L_______Tony Cannell Mews, R_______Maplin Street, L_______Mile End Road, SDOL"
+    
+    
+    
+}

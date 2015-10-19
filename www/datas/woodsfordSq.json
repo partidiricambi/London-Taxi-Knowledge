@@ -1,0 +1,30 @@
+{
+    "additionalInfo": "West London", 
+    "Area": {
+        "Postcode": "W14 W4", 
+        "NearbyStation": "Olympia"
+    }, 
+    "runNumber": [
+       27
+    ], 
+     
+
+
+    
+    "id": "woodsfordSq", 
+    "images": [
+        "img/phones/woodsfordSq-27.0.jpg",
+        "img/phones/woodsfordSq-27.1.jpg",
+        "img/phones/woodsfordSq-27.2.jpg",
+        "img/phones/woodsfordSq-27.3.jpg",
+        "img/phones/woodsfordSq-27.4.jpg"
+        
+       
+    ], 
+    "name": "woodsford Square W14 To Chiswick Mall W4", 
+    "direction":
+    "LOL______Addison Road, R______Kensignton High Street, F______Addison Bridge, F______Hammersmith Road , F______Hammersmith Broadway, L______Butterwick, R______Talgarth Road, R______Queen Caroline Street, L______Hammersmith Bridge Road, L/BY______Great West Road, L______South Black Lion Lane, CHISWICK MALL ON RIGHT"
+    
+    
+    
+}

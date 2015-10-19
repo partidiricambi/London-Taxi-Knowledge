@@ -1,0 +1,30 @@
+{
+    "additionalInfo": "East London", 
+    "Area": {
+        "Postcode": "E8 E15", 
+        "NearbyStation": "Canning Town"
+    }, 
+    "runNumber": [
+       16
+    ], 
+     
+
+
+    
+    "id": "westHam", 
+    "images": [
+        "img/phones/westHam-16.0.jpg",
+        "img/phones/westHam-16.1.jpg",
+        "img/phones/westHam-16.2.jpg",
+        "img/phones/westHam-16.3.jpg",
+        "img/phones/westHam-16.4.jpg"
+        
+       
+    ], 
+    "name": "WEST HAM STATION E15 TO DALSTON KINGSLAND STATION E8", 
+    "direction":
+    "LOR______Memorial Avenue,R______Manor Road, L______Mitre Road, F______Abbey Road, F______Abbey Lane, F______Rick Roberts Way, L______High Street Stratford, B/L_____Bow Interchange Slip, COM_____Bow Interchange, L BY R __BlackwallTunnelnth/App, L______Old Ford Slip Road, L______Wick Lane, F______Tredegar Road, R______Parnell Road, L______Old Ford road, COM______Crown Gate R/BOUT, L BY R __Grove Road, F______Lauriston Road, COM______R/BOUT, L/BY_____Lauriston Road CONT'D, L______Well Street, R______Mare Street, L______Richmond Road, R______Greenwood Road, L______Graham Road, F______Dalston Lane, F________Balls Pond Road, L & L____Bentley Road, L________Kingsland Road, F________Kingsland High Street, SDOL"
+    
+    
+    
+}

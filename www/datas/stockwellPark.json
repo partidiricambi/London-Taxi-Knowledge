@@ -1,0 +1,31 @@
+{
+    "additionalInfo": "South West London", 
+    "Area": {
+        "Postcode": "SW9 To SE21", 
+        "NearbyStation": "Stockwell"
+    }, 
+    "runNumber": [
+       34
+    ], 
+     
+
+
+    
+    "id": "stockwellPark", 
+    "images": [
+        "img/phones/stockwellPark-34.0.jpg",
+        "img/phones/stockwellPark-34.1.jpg",
+        "img/phones/stockwellPark-34.2.jpg",
+        "img/phones/stockwellPark-34.3.jpg",
+        "img/phones/stockwellPark-34.4.jpg"
+        
+       
+    ], 
+    "name": "Stockewell Park Road SW9 To West Dulwich Station SE21", 
+    "direction":
+    "L/BY______Sidney Road, L______Stockwell Road, B/L______Stockwell Park Walk, R______Brixton Road, L______Atlantic Road, F______Railton Road, R______Rymer Street, L______Dulwich Road, R______Norwood Road, L______Croxted Road, L______Thurlow Park Road, WEST DULWICHSTATION ON RIGHT"
+    
+    
+    
+         
+}

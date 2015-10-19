@@ -1,0 +1,32 @@
+{
+    "additionalInfo": "East London To South East", 
+    "Area": {
+        "Postcode": "E1 To SE11", 
+        "NearbyStation": "Shadwell"
+    }, 
+    "runNumber": [
+       49
+    ], 
+     
+
+
+    
+    "id": "shadwellStation", 
+    "images": [
+        "img/phones/shadwellStation-49.0.jpg",
+        "img/phones/shadwellStation-49.1.jpg",
+        "img/phones/shadwellStation-49.2.jpg",
+        "img/phones/shadwellStation-49.3.jpg",
+        "img/phones/shadwellStation-49.4.jpg"
+        
+       
+    ], 
+    "name": "Shadwell Station E1 To The Oval SE11", 
+    "direction":
+    "LOR______Cable Street, R______Leman Street, L______Chamber Street, L______Mansell Street, F______Tower Bridge Approach, F______Tower Bridge, F______Tower Bridge Road, COM______Bricklayer'S Arms R/BOUT, L/B______New Kent Road, COM______Elephant And Castle, L/BY______Newington Butts, F______Kennington Park Road, R______Harleyford Street, F______Kennington Oval,  THE OVAL ON RIGHT"
+    
+    
+    
+
+         
+}

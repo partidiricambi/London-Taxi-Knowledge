@@ -1,0 +1,33 @@
+{
+    "additionalInfo": "West London", 
+    "Area": {
+        "Postcode": "W2 W9 NW3 NW8", 
+        "NearbyStation": "Lancaster Gate"
+    }, 
+    "runNumber": [
+       6
+    ], 
+     
+
+
+    
+    "id": "LancasterGate", 
+    "images": [
+        "img/phones/LancasterGate-6.0.jpg",
+        "img/phones/LancasterGate-6.1.jpg",
+        "img/phones/LancasterGate-6.2.jpg",
+        "img/phones/LancasterGate-6.3.jpg",
+        "img/phones/LancasterGate-6.4.jpg"
+        
+       
+    ], 
+    "name": "Lancaster Gate W2 To Royal Free Hospital Nw3", 
+    
+   "direction":
+      
+    "L BY L___Bayswater Road, L________ Lancaster Terrace, F & R____Sussex Gardens, L________ Edgware Road, F________ Maida Vale, R________ St Johns Wood Road, L & R____ Grove End Road, L________Finchley Road, B/R______ College Crescent, R________ Belsize Lane, F________ Ornan Road, L________ Haverstock Hill, F________ Rosslyn Hill, R________ Pond Street,ROYAL FREE HOSPITAL ON RIGHT, (EXIT BY ROWLAND HILL STREET)"
+    
+    
+
+    
+}

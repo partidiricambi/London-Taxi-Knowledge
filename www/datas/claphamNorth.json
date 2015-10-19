@@ -1,0 +1,30 @@
+{
+    "additionalInfo": "South West London", 
+    "Area": {
+        "Postcode": "SW4 To SW16", 
+        "NearbyStation": "Clapham Common"
+    }, 
+    "runNumber": [
+       36
+    ], 
+     
+
+
+    
+    "id": "claphamNorth", 
+    "images": [
+        "img/phones/claphamNorth-36.0.jpg",
+        "img/phones/claphamNorth-36.1.jpg",
+        "img/phones/claphamNorth-36.2.jpg",
+        "img/phones/claphamNorth-36.3.jpg",
+        "img/phones/claphamNorth-36.4.jpg"
+        
+       
+    ], 
+    "name": "Clapham North Station SW4 To Mitcham Lane SW16", 
+    "direction":
+    "LOL______Bedford Road, L______Clapham High Street, L______Aristotle Road, R______Bedford Road, F______King's Avenue, B/L______Thornton Road, F______Thornton Avenue, B/L______Sternhold Avenue, R______Streatham High Road, MITCHAM LANE FACING"
+    
+    
+    
+}

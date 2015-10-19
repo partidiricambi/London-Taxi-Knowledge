@@ -1,0 +1,21 @@
+/* Empty. Add your own CSS if you like */
+.star>.item-content {
+	background-color: #EEE8D6 !imprtant;
+}
+.splash {
+	background: url(../img/londonNight.jpg) no-repeat
+	center center fixed;
+
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-webkit-background-size: cover;
+	background-size: cover;
+
+
+        }  
+
+   .branding p {
+   font-size: 1.875em;
+   color: #ffffff;
+   text-align: center;
+}

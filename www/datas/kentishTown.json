@@ -1,0 +1,31 @@
+{
+    "additionalInfo": "North West London", 
+    "Area": {
+        "Postcode": "NW5 To EC1", 
+        "NearbyStation": "Camden Town"
+    }, 
+    "runNumber": [
+       31
+    ], 
+     
+
+
+    
+    "id": "kentishTown", 
+    "images": [
+        "img/phones/kentishTown-31.0.jpg",
+        "img/phones/kentishTown-31.1.jpg",
+        "img/phones/kentishTown-31.2.jpg",
+        "img/phones/kentishTown-31.3.jpg",
+        "img/phones/kentishTown-31.4.jpg"
+        
+       
+    ], 
+    "name": "Kentish Town Station NW5 To West Smithfield EC1", 
+    "direction":
+    "LOL______Kentish Town Road, B/L______Royal College Street, B/L______St Pancras Way, L______Pancras Road, F______Midland Road, L______Euston Road, F______Pentoville Road, R______King's Cross Road, F______Farringdon Road, F______Farringdon Street, WEST SMIFIELD ON LEFT"
+    
+    
+    
+         
+}

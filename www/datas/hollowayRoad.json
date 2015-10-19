@@ -1,0 +1,32 @@
+{
+    "additionalInfo": "North London", 
+    "Area": {
+        "Postcode": "N7 To N8", 
+        "NearbyStation": "Highbury And Islington"
+    }, 
+    "runNumber": [
+       63
+    ], 
+     
+
+
+    
+    "id": "hollowayRoad", 
+    "images": [
+        "img/phones/hollowayRoad-63.0.jpg",
+        "img/phones/hollowayRoad-63.1.jpg",
+        "img/phones/hollowayRoad-63.2.jpg",
+        "img/phones/hollowayRoad-63.3.jpg",
+        "img/phones/hollowayRoad-63.4.jpg"
+        
+       
+    ], 
+    "name": "Holloway Road Station N7 To Turnpike Lane", 
+    "direction":
+    "LOL______Holloway Road, R______Jackson Road, R______Lowman Road, L______Hornsey Road, R______Seven Sisters Road, L______Fonthill Road, R______Tollington park, F______Upper Tollington Park, L & R______Endymion Road, L______Alroy Road, F______Wightman Road, F______Hornsey Park Road, R______The Avenue, R______Alexandra road,  TURNPIKE LANE ON LEFT & RIGHT"
+    
+    
+    
+
+         
+}

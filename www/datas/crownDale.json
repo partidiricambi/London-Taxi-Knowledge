@@ -1,0 +1,32 @@
+{
+    "additionalInfo": " South East London", 
+    "Area": {
+        "Postcode": "SE19 To SE4", 
+        "NearbyStation": "West Norwood"
+    }, 
+    "runNumber": [
+       45
+    ], 
+     
+
+
+    
+    "id": "crownDale", 
+    "images": [
+        "img/phones/crownDale-45.0.jpg",
+        "img/phones/crownDale-45.1.jpg",
+        "img/phones/crownDale-45.2.jpg",
+        "img/phones/crownDale-45.3.jpg",
+        "img/phones/crownDale-45.4.jpg"
+        
+       
+    ], 
+    "name": "Crown Dale SE19 To Crofton Park Station SE4", 
+    "direction":
+    "L BY F______Central Hill, L______Salter'S Hill, B/R______Gispy Road, COM______Gipsy Circus, L/BY______Dulwich Wood Park, F______College Road, L______Crystal Palace Parade, COM______R/BOUT'S, L/BY______Sysenham Hill, R______Sydenham Rise, R______London Road, L______Honor Oak Road, R______Tyson Road, L______Devonshire Road, R______Honor Oak Park, L______Stondon Park, F______Brockley Road,   CROFTON PARK STATION ON RIGHT"
+    
+    
+    
+
+         
+}

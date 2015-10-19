@@ -1,0 +1,30 @@
+{
+    "additionalInfo": "Central London", 
+    "Area": {
+        "Postcode": "WC2 W1 W2", 
+        "NearbyStation": "Holborn"
+    }, 
+    "runNumber": [
+       5
+    ], 
+     
+
+
+    
+    "id": "australian", 
+    "images": [
+        "img/phones/australian-5.0.jpg",
+        "img/phones/australian-5.1.jpg",
+        "img/phones/australian-5.2.jpg",
+        "img/phones/australian-5.3.jpg",
+        "img/phones/australian-5.4.jpg"
+        
+       
+    ], 
+    "name": "Australian High Commission WC2 To Paddington Station W2", 
+    "direction":
+    "LOR______Strand, R________Aldwych, L________Drury Lane, L________High Holborn, F________Princes Circus, L/BY_____St Giles High Street, R________Earnshaw Street, L________New Oxford Street, F________St Giles Circus, F________Oxford Street, R________Portman Street, L________Seymour Street, R________Edgware Road, L________Harrow Road, COM______Harrow Road R/BOUT, L/BY_____Bishop'S Bridge Road, PADDINGTON STATION ON LEFT"
+    
+    
+    
+}

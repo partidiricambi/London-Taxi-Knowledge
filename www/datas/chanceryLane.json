@@ -1,0 +1,31 @@
+{
+    "additionalInfo": "Central London", 
+    "Area": {
+        "Postcode": "EC4", 
+        "NearbyStation": "Stanford Hill"
+    }, 
+    "runNumber": [
+       3
+    ], 
+     
+
+
+    
+    "id": "chanceryLane", 
+    "images": [
+        "img/phones/chanceryLane-3.0.jpg",
+        "img/phones/chanceryLane-3.1.jpg",
+        "img/phones/chanceryLane-3.2.jpg",
+        "img/phones/chanceryLane-3.3.jpg",
+        "img/phones/chanceryLane-3.4.jpg"
+        
+       
+    ], 
+    "name": "Chancery Lane Station WC1 To Rolls Road SE1", 
+    
+     "direction":
+    
+    "LOL______High Holborn, F_________Holborn, COM_______Holborn Circus, L/BY______Charterhouse Street, R_________Farringdon Street, F_________Ludgate Circus, F_________New Bridge Street, F_________Blackfriars Bridge, F_________Blackfriars Road, L_________Southwark Street, R_________Southwark Bridge Road, L_________Marshalsea Road, F_________Great Dover Street, COM______Bricklayer's Arms R/Bout, L/BY_____Old Kent Road, L________Rowcross Street,ROLLS ROAD ON LEFT & RIGHT"
+    
+    
+}

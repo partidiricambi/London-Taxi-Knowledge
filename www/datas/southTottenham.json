@@ -1,0 +1,32 @@
+{
+    "additionalInfo": "North To East London", 
+    "Area": {
+        "Postcode": "N15 To E5", 
+        "NearbyStation": "South Tottenham"
+    }, 
+    "runNumber": [
+       61
+    ], 
+     
+
+
+    
+    "id": "southTottenham", 
+    "images": [
+        "img/phones/southTottenham-61.0.jpg",
+        "img/phones/southTottenham-61.1.jpg",
+        "img/phones/southTottenham-61.2.jpg",
+        "img/phones/southTottenham-61.3.jpg",
+        "img/phones/southTottenham-61.4.jpg"
+        
+       
+    ], 
+    "name": "South Tottenham Station N15 To Rushmore Road E5", 
+    "direction":
+    "LOL______High Road, South T/NHAM, F______Stamford Hill, L______Clapton Common, F______Upper Clapton Road, COM______Lea Bridge CIRCUS, L/BY______Lower Clapton Road, L______Millfields Road,  RUSHMORE ROAD ON RIGHT"
+    
+    
+    
+
+         
+}

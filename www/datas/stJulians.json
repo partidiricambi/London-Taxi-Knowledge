@@ -1,0 +1,32 @@
+{
+    "additionalInfo": "South East To South West London", 
+    "Area": {
+        "Postcode": "SE27 To SW17", 
+        "NearbyStation": "Streatham Hill"
+    }, 
+    "runNumber": [
+       43
+    ], 
+     
+
+
+    
+    "id": "stJulians", 
+    "images": [
+        "img/phones/stJulians-43.0.jpg",
+        "img/phones/stJulians-43.1.jpg",
+        "img/phones/stJulians-43.2.jpg",
+        "img/phones/stJulians-43.3.jpg",
+        "img/phones/stJulians-43.4.jpg"
+        
+       
+    ],
+    "name":"St Julians Farm Road SE27 To Cranmer Terrace Terrace SW17",
+    "direction":
+    "LVE BY______Leigham Court Rd, R______Etherstone Rd, L______Spring Well Rd, R______Valleyfield Rd, R______Valley Rd, L______Stanthorpe Rd, F______Gleneagle Rd, R______Ambleside AVE, L______Tooting Bec Rd, L______Aldrington Road, R______Ullathorne Road, F______Furzedown Road, COMPLY______Roundabout, LVE BY Church Lane, R______Mitcham Road, F______Tooting Broadway, F______Garratt Lane, L______Fountain Road,  CRANMER TERRACE ON LEFT"
+
+    
+    
+
+         
+}

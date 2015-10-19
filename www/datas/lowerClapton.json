@@ -1,0 +1,32 @@
+{
+    "additionalInfo": "East To North London", 
+    "Area": {
+        "Postcode": "E5 To N7", 
+        "NearbyStation": "Hackney Downs"
+    }, 
+    "runNumber": [
+       62
+    ], 
+     
+
+
+    
+    "id": "lowerClapton", 
+    "images": [
+        "img/phones/lowerClapton-62.0.jpg",
+        "img/phones/lowerClapton-62.1.jpg",
+        "img/phones/lowerClapton-62.2.jpg",
+        "img/phones/lowerClapton-62.3.jpg",
+        "img/phones/lowerClapton-62.4.jpg"
+        
+       
+    ], 
+    "name": "Lower Clapton Road E5 To Market Road N7", 
+    "direction":
+    "L/BY______Dalston Lane, COM______Pembury CIRCUS, L/BY______Dalston Lane CONT'D, F______Balls Pond Road, F______St Paul's Road, COM______Highbury Corner, L/BY______Holloway Road, L______Furlong Road, R______Liverpool Road, L______Sheringham Road, R______Westbourne Road, L______Mackenzie Road,  MARKET ROAD FACING"
+    
+    
+    
+
+         
+}

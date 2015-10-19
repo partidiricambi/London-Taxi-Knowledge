@@ -1,0 +1,30 @@
+{
+    "additionalInfo": "West London", 
+    "Area": {
+        "Postcode": "W4 W10", 
+        "NearbyStation": "Turnham Green"
+    }, 
+    "runNumber": [
+       28
+    ], 
+     
+
+
+    
+    "id": "turnhamGreen", 
+    "images": [
+        "img/phones/turnhamGreen-28.0.jpg",
+        "img/phones/turnhamGreen-28.1.jpg",
+        "img/phones/turnhamGreen-28.2.jpg",
+        "img/phones/turnhamGreen-28.3.jpg",
+        "img/phones/turnhamGreen-28.4.jpg"
+        
+       
+    ], 
+    "name": "Turnham Green Station W4 To Oxford Gardens W10", 
+    "direction":
+    "LOR______Turnham Green Terrace, R______Bath Road, F______Stamford Brook Road, COM______R/BOUT, L/BY F______Goldhawk Road, COM______Seven Stars Corner, L/B L______Askew Road, R______Percy Road, R______Uxbridge Road, L______Bloemfontein Road, R______South Africa Road, L______Wood Lane, R______North Pole Road, R______Latimer Rd, OXFORD GARDENS ON LEFT"
+    
+    
+    
+}

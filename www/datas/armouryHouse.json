@@ -1,0 +1,30 @@
+{
+    "additionalInfo": "East Central To South East London", 
+    "Area": {
+        "Postcode": "EC1 To SE1", 
+        "NearbyStation": "Holborn"
+    }, 
+    "runNumber": [
+       5
+    ], 
+     
+
+
+    
+    "id": "armouryHouse", 
+    "images": [
+        "img/phones/armouryHouse-32.0.jpg",
+        "img/phones/armouryHouse-32.1.jpg",
+        "img/phones/armouryHouse-32.2.jpg",
+        "img/phones/armouryHouse-32.3.jpg",
+        "img/phones/armouryHouse-32.4.jpg"
+        
+       
+    ], 
+    "name": "Armoury House EC1 To Tower Bridge SE1", 
+    "direction":
+    "LOR______City Road, F______Finsbury Square, F______Finsbury Pavement, L______South Place, F______Eldon Street, R______Bloomsfield Street, L______London Wall, F______Wormwood Street, F______Camomile Street, L______Outwich Street, R______Houndsditch, L______Saint Botolph Street, R______Middlesex Street, R______Aldgate High Street, L______Minories, L______Goodman's Yard, R______Mansell Street, F______Tower Bridge Approach,  TOWER BRIDGE FACING"
+    
+    
+    
+}

@@ -1,0 +1,32 @@
+{
+    "additionalInfo": "South West To South East London", 
+    "Area": {
+        "Postcode": "SW16 To SE26", 
+        "NearbyStation": "Balham"
+    }, 
+    "runNumber": [
+       37
+    ], 
+     
+
+
+    
+    "id": "amblesideAve", 
+    "images": [
+        "img/phones/amblesideAve-37.0.jpg",
+        "img/phones/amblesideAve-37.1.jpg",
+        "img/phones/amblesideAve-37.2.jpg",
+        "img/phones/amblesideAve-37.3.jpg",
+        "img/phones/amblesideAve-37.4.jpg"
+        
+       
+    ], 
+    "name": "Ambleside Ave SW16 To Sydenham Hill SE26", 
+    "direction":
+    "L/BY R______Tooting Bec Gardens, L______Streatham High Road, R______Sunnyhill High Road, R______Valley Road, L______Valleyfield Road, R______Leigham Court Road, L______Crown lane, F______Crown Dale, F______Central Hill, F______Weston Hill, B/L______Crystal Palace Parade, COM______R/BOUT, SYDENHAM HILL ON LEFT"
+    
+    
+    
+
+         
+}

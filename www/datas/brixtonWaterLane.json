@@ -1,0 +1,30 @@
+{
+    "additionalInfo": "Brixton Water Lane SW2 To Forest Hill Road SE22", 
+    "Area": {
+        "Postcode": "SW2 To SE22", 
+        "NearbyStation": "Brixton"
+    }, 
+    "runNumber": [
+       39
+    ], 
+     
+
+
+    
+    "id": "brixtonWaterLane", 
+    "images": [
+        "img/phones/brixtonWaterLane-39.0.jpg",
+        "img/phones/brixtonWaterLane-39.1.jpg",
+        "img/phones/brixtonWaterLane-39.2.jpg",
+        "img/phones/brixtonWaterLane-39.3.jpg",
+        "img/phones/brixtonWaterLane-39.4.jpg"
+        
+       
+    ], 
+    "name": "Brixton Water lane SW2 To Forest Hill Road SE22", 
+    "direction":
+    "L BY L______Effra Road, R______Morval Road, R______Dalberg Road, F______Dulwich Road, L______Herne Hill, B/R______Half Moon Lane, R______Village Way, F______East Dulwich Grove, R______Townley Road, R______Lordship Lane, L______Goodrich Road, L______Dunstan'S Road,  FOREST HILL ROAD ON RIGHT"
+    
+    
+    
+}

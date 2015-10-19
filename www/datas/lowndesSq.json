@@ -1,0 +1,30 @@
+{
+    "additionalInfo": "Central London", 
+    "Area": {
+        "Postcode": "SW1 SW6", 
+        "NearbyStation": "Sloane Square"
+    }, 
+    "runNumber": [
+       19
+    ], 
+     
+
+
+    
+    "id": "lowndesSq", 
+    "images": [
+        "img/phones/lowndesSq-19.0.jpg",
+        "img/phones/lowndesSq-19.1.jpg",
+        "img/phones/lowndesSq-19.2.jpg",
+        "img/phones/lowndesSq-19.3.jpg",
+        "img/phones/lowndesSq-19.4.jpg"
+        
+       
+    ], 
+    "name": "Lowndes Square SW1", 
+     "direction":
+    "L/BY______Harriet Street, L______Sloane Street, R______Point Street, L & COM______Cadogan Square, R______Cadogan Street, F______Whiteheads Grove, L______Sloane Avenue, R______Sprimont Place, R______Elystan Place, L______Markham Street, R______King's Road, F______New King's Road, L______Broomhouse Road, R______Hurlingham Road, L______Napier Avenue, L______Ranelagh Gardens, HURLINGHAM CLUB FACING"
+    
+    
+    
+}

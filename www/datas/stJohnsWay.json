@@ -1,0 +1,32 @@
+{
+    "additionalInfo": " North To North West London", 
+    "Area": {
+        "Postcode": "N19 To NW11", 
+        "NearbyStation": "Archway"
+    }, 
+    "runNumber": [
+       58
+    ], 
+     
+
+
+    
+    "id": "stJohnsWay", 
+    "images": [
+        "img/phones/stJohnsWay-58.0.jpg",
+        "img/phones/stJohnsWay-58.1.jpg",
+        "img/phones/stJohnsWay-58.2.jpg",
+        "img/phones/stJohnsWay-58.3.jpg",
+        "img/phones/stJohnsWay-58.4.jpg"
+        
+       
+    ], 
+    "name": "St John's Way N19 To Woodstock Avenue NW11", 
+    "direction":
+    "L/BY COM______Archway Junction, L/BY______Highgate Hill, F______Highgate High Street, B/L______Hampstead lane, R______Winnington Road, L______Ingram Ave, L______Wildwood Road, B/R______Hampsead Way, L______Welgarth Road, R______North End Road, L & R______Finchley Road, L______Golders Green Road,  WOODSTOCK AVE ON LEFT"
+    
+    
+    
+
+         
+}

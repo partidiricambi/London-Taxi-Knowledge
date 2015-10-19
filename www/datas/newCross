@@ -1,0 +1,46 @@
+{
+    "additionalInfo": "East London", 
+    "Area": {
+        "Postcode": "SE14 SE10", 
+        "NearbyStation": "New Cross"
+    }, 
+    "runNumber": [
+       14
+    ], 
+     
+
+
+    
+    "id": "newCross", 
+    "images": [
+        "img/phones/newCross-14.0.jpg",
+        "img/phones/newCross-14.1.jpg",
+        "img/phones/newCross-14.2.jpg",
+        "img/phones/newCross-14.3.jpg",
+        "img/phones/newCross-14.4.jpg"
+        
+       
+    ], 
+    "name": "New Cross Station SE14 To National Maritime Meuseum Se10", 
+    "direction":[
+    "LOL_____Amersham Vale",
+    "R_____Edward Street",
+    "L_____Deptford High Street",
+    "R_____Creek Road",
+    "L_____Greenwich Church Street",
+    "R_____College Approach",
+    "R_____King William Walk",
+    "L_____Romney Road",
+    
+
+     "SDOR"
+    ],
+    
+    "poi": [
+        "Deptford Police Station Amersham Vale",
+        "John Penn House Amersham Vale",
+        "Cutty Sark DLR Station Creek Road",
+        "The Cutty Sark Green Church Street"
+
+         ]
+}

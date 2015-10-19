@@ -1,0 +1,32 @@
+{
+    "additionalInfo": "South East London", 
+    "Area": {
+        "Postcode": "SE11 TO SE15", 
+        "NearbyStation": "Oval"
+    }, 
+    "runNumber": [
+       41
+    ], 
+     
+
+
+    
+    "id": "kenningtonStation", 
+    "images": [
+        "img/phones/kenningtonStation-41.0.jpg",
+        "img/phones/kenningtonStation-41.1.jpg",
+        "img/phones/kenningtonStation-41.2.jpg",
+        "img/phones/kenningtonStation-41.3.jpg",
+        "img/phones/kenningtonStation-41.4.jpg"
+        
+       
+    ], 
+    "name": "Kennington Station SE11 To Nunhead Station SE15", 
+    "direction":
+    "LOL______Braganza Street, L______Manor Place, R______Penton Place, L______Penrose Street, R______Walworth, F______Camberwell Road, L______Albany Road, R______Wells Way, L______Southampton Way, L______Peckham Road, F______Peckham High Street, R______Clayton Road, COM______R/BOUT, L/BY L______Consort Road, L______Nunhead Lane, F______Nunhead Green, F______Evelina Road, R______Kimberley Avenue, L______Gibbon Road,  SDOL"
+    
+    
+    
+
+         
+}

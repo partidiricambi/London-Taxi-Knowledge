@@ -1,0 +1,33 @@
+{
+    "additionalInfo": "North West London", 
+    "Area": {
+        "Postcode": "NW1", 
+        "NearbyStation": "Baker Street"
+    }, 
+    "runNumber": [
+       7
+    ], 
+     
+
+
+    
+    "id": "fitzjohn", 
+    "images": [
+        "img/phones/fitzjohn-7.0.jpg",
+        "img/phones/fitzjohn-7.1.jpg",
+        "img/phones/fitzjohn-7.2.jpg",
+        "img/phones/fitzjohn-7.3.jpg",
+        "img/phones/fitzjohn-7.4.jpg"
+        
+       
+    ], 
+    "name": "fitzjohn's Ave NW3 To Fitzhardinge ST W1", 
+    
+    "direction":
+      
+    "L BY F___College Crescent, F________ Avenue Road, F________ North Gate, F________Macclesfield Bridge, R________ Outer Circle, L/BY_____ Clarence Gate, F________ Baker Street, FITZHARDINGE STREET ON LEFT"
+    
+    
+
+    
+}
