@@ -46,18 +46,6 @@ angular.module('starter', ['ionic'])
       }
      })
 
-     .state('tabs.calendar', {
-      url: '/calendar',
-      views: {
-        'calendar-tab' : {
-          templateUrl: 'templates/calendar.html',
-          controller: 'CalendarController'
-        }
-      }
-     })
-
-
-     
      .state('tabs.detail', {
       url: '/list/:aId',
       views: {
@@ -74,37 +62,10 @@ angular.module('starter', ['ionic'])
 })
 
 
-.controller('CalendarController', ['$scope', '$http', '$state', 
+.controller('ListController', ['$scope', '$http', '$state',
     function($scope, $http, $state){
-      $http.get('datas/data.json').success(function(data){
-        $scope.calendar = data.calendar;
-        
-
-
-
-
-
-        
-
-        $scope.doRefresh = function(){
-        $http.get('datas/data.json').success(function(data){
-        $scope.calendar = data.calendar;
-        $scope.$broadcast('scroll.refreshComplete');  
-        });
-
-        }
-        
-        
-        });
-
-  }])
-
-
-
-.controller('ListController', ['$scope', '$http', '$state', 
-    function($scope, $http, $state){
-      $http.get('datas/data.json').success(function(data){
-        $scope.runs = data.runs;
+      $http.get('./datas/' + params.aId + '.json').success(function(data){
+        $scope.runs = data;
         $scope.whichrun = $state.params.aId;
 
 
@@ -115,8 +76,8 @@ angular.module('starter', ['ionic'])
         
 
         $scope.doRefresh = function(){
-        $http.get('datas/data.json').success(function(data){
-        $scope.runs = data.runs;
+        $http.get('js/data.json').success(function(data){
+        $scope.runs = data;
         $scope.$broadcast('scroll.refreshComplete');  
         });
 
@@ -129,7 +90,28 @@ angular.module('starter', ['ionic'])
 
 
 
+// var phonecatApp = angular.module('phonecatApp', [
+//   'ngRoute',
+//   'phonecatControllers',
+//   'phonecatAnimations',
+//   'phonecatServices'
+// ]);
 
+// phonecatApp.config(['$routeProvider',
+//   function($routeProvider) {
+//     $routeProvider.
+//       when('/datas', {
+//         templateUrl: './templates/list.html',
+//         controller: 'PhoneListCtrl'
+//       }).
+//       when('/data/:phoneId', {
+//         templateUrl: './templates/detail.html',
+//         controller: 'PhoneDetailCtrl'
+//       }).
+//       otherwise({
+//         redirectTo: '/datas'
+//       });
+//   }]);
 
 
 

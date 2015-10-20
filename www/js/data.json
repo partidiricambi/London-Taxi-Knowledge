@@ -11,9 +11,12 @@
         "description":"MANOR HOUSE STATION N4 TO GIBSON SQUARE",
         
         "poi":
-        " John Scott Health Centre , Unite The Union, Hen and Chickens Bar, Islington Town Hall"
+        " John Scott Health Centre , Unite The Union, Hen and Chickens Bar, Islington Town Hall",
 
-   
+       "direction": 
+        
+     "LOL_____Green Lanes,R_______Brownswood Road, L_______Blackstock Road, F_______Highbury Park, F_______Highbury Grove, R_______St Paul's road, COM_____Highbury Corner, L/BY____Upper street, R_______Barnsbury Street, L_______Milner Square, L_______Milner Place, GIBSON SQUARE FACING"
+        
     
     }, 
 

@@ -1,7 +1,6 @@
  
 <ion-header-bar ng-controller="ListController"  class="bar-positive">
-      <button class="button icon-left ion-home ">home</button>
-        <h1 class="title">London Taxi Routes</h1>      
+      <h1 class="title">London Taxi Routes</h1>      
 </ion-header-bar>
       <div class="bar bar-subheader
        item-input-inset bar-light">
@@ -49,9 +48,9 @@
       <img ng-src="{{item.imageUrl}}" alt="{{item.name}} Photo"> 
       <h2>{{item.name}}</h2>
       <h3>{{item.description}}</h3>
-      <p>{{item.poi | limitTo:200}}</p>
-      {{item.poi.length > 100 ? '&hellip;' : ''}}
-
+      <p>{{item.poi | limitTo:200}}
+      {{item.poi.length > 100 ? '&hellip;' : ''}}</p>
+      
     </ion-item>
   </ion-list> 
 </ion-content>
