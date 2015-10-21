@@ -87,7 +87,7 @@ angular.module('starter', ['ionic'])
         
 
         $scope.doRefresh = function(){
-        $http.get('datas/data.json').success(function(data){
+        $http.get('datas/calendar.json').success(function(data){
         $scope.calendar = data.calendar;
         $scope.$broadcast('scroll.refreshComplete');  
         });
