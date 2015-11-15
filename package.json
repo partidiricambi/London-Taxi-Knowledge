@@ -2,6 +2,7 @@
   "name": "taxiblank",
   "version": "1.0.0",
   "description": "taxiBlank: An Ionic project",
+  "main": "server.js",
   "dependencies": {
     "gulp": "^3.5.6",
     "gulp-sass": "^2.0.4",
@@ -14,6 +15,16 @@
     "gulp-util": "^2.2.14",
     "shelljs": "^0.3.0"
   },
+
+  "engines": {
+    "node": "4.0.0"
+  },
+  
+  "repository": {
+  "type": "git",
+  "url": "git://github.com/partidiricambi/London-Taxi-Knowledge.git" 
+},
+
   "cordovaPlugins": [
     "cordova-plugin-device",
     "cordova-plugin-console",
