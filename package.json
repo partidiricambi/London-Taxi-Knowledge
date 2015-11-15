@@ -2,7 +2,7 @@
   "name": "taxiblank",
   "version": "1.0.0",
   "description": "taxiBlank: An Ionic project",
-  "main": "server.js",
+  "main": "web.js",
   "dependencies": {
     "gulp": "^3.5.6",
     "gulp-sass": "^2.0.4",
