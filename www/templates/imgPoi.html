@@ -1,0 +1,13 @@
+<ion-view>
+  <ion-content class="splash padding">
+<ion-item ng-repeat="img in imageslinks | filter: {imageslinks: whichimage }" 
+     class="links" href="#/tab/list/{{img.imageslinks}}">
+      <img ng-src="{{img}}" alt="{{item.name}} Photo"> 
+      <div class="imagesLinks">
+    	<img src="" alt="">
+    </div>
+      
+    </ion-item>
+
+</ion-content>
+</ion-view>

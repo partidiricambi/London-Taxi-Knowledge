@@ -2,26 +2,33 @@
   <h2 class="title">More Info</h2>
 </ion-header-bar>
 
-<ion-view>
-  <ion-content>
-    <ion-list class="list-inset">
+<ion-view class="detailing">
+  <ion-content class=" padding" >
+   <!--  <ion-list class="links"> -->
       <ion-item class="item-text-wrap"
           ng-repeat="item in runs | filter: {id: whichrun}">
 
+          <div class="brandingB">
+
           <img ng-src="{{item.imageUrl}}" alt="{{item.name}}">     
+          
+          </div>
+
+         <!--  <div class="tagline">
           <h1>{{item.name}}</h1>
           
+          <p>{{item.description}}</p> -->
+
+          </div>
+          
+          <div class="poi">
+         
           <p>{{item.description}}</p>
 
-          <p>{{item.direction}}</p>
+          <p>{{item.poi}}</p>
 
-       
-       <ul class="poi-links">
-     
-       <li ng-repeat="img in item.images">
-       <img ng-src="{{img}}" ng-click="setImage(img)">
-       </li>
-      </ul> 
+         </div>
+         
 
 
        </ion-item>
@@ -30,7 +37,7 @@
     
     
 
-    </ion-list>
+    <!-- </ion-list> -->
      
   </ion-content>
 </ion-view>

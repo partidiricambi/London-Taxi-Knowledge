@@ -5,6 +5,7 @@
 // the 2nd parameter is an array of 'requires'
 angular.module('starter', ['ionic'])
 
+
 .run(function($ionicPlatform) {
   $ionicPlatform.ready(function() {
     // Hide the accessory bar by default (remove this to show the accessory bar above the keyboard
@@ -17,6 +18,50 @@ angular.module('starter', ['ionic'])
     }
   });
 })
+
+//Adding users*************
+
+ // kick off the platform web client
+// Ionic.io();
+
+
+// // this will give you a fresh user or the previously saved 'current user'
+// var user = Ionic.User.current();
+
+// // if the user doesn't have an id, you'll need to give it one.
+// if (!user.id) {
+//   user.id = Ionic.User.anonymousId();
+//   // user.id = 'your-custom-user-id';
+// }
+
+// //persist the user
+// user.save();
+
+
+//Push************
+
+// var push = new Ionic.Push({
+//   "debug": true,
+//   "onNotification": function(notification) {
+//     var payload = notification.payload;
+//     console.log(notification, payload);
+//   },
+//   "onRegister": function(data) {
+//     console.log(data.token);
+//   },
+//   "pluginConfig": {
+//     "ios": {
+//       "badge": true,
+//       "sound": true
+//      },
+//      "android": {
+//        "iconColor": "#343434"
+//      }
+//   } 
+// });
+
+
+//Adding states**************
 
 .config(function($stateProvider, $urlRouterProvider){
   $stateProvider
@@ -46,15 +91,7 @@ angular.module('starter', ['ionic'])
       }
      })
 
-     .state('tabs.calendar', {
-      url: '/calendar',
-      views: {
-        'calendar-tab' : {
-          templateUrl: 'templates/calendar.html',
-          controller: 'CalendarController'
-        }
-      }
-     })
+     
 
 
      
@@ -74,31 +111,7 @@ angular.module('starter', ['ionic'])
 })
 
 
-.controller('CalendarController', ['$scope', '$http', '$state', 
-    function($scope, $http, $state){
-      $http.get('datas/data.json').success(function(data){
-        $scope.calendar = data.calendar;
-        
-
-
-
-
-
-        
-
-        $scope.doRefresh = function(){
-        $http.get('datas/calendar.json').success(function(data){
-        $scope.calendar = data.calendar;
-        $scope.$broadcast('scroll.refreshComplete');  
-        });
-
-        }
-        
-        
-        });
-
-  }])
-
+//Contollers*********************
 
 
 .controller('ListController', ['$scope', '$http', '$state', 
@@ -128,8 +141,40 @@ angular.module('starter', ['ionic'])
   }]);
 
 
+// Adding Buttons************
 
+// .controller('DashCtrl', function($scope) {
+  
+//   var deploy = new Ionic.Deploy();
+  
+//   // Update app code with new release from Ionic Deploy
+//   $scope.doUpdate = function() {
+//     deploy.update().then(function(res) {
+//       console.log('Ionic Deploy: Update Success! ', res);
+//     }, function(err) {
+//       console.log('Ionic Deploy: Update error! ', err);
+//     }, function(prog) {
+//       console.log('Ionic Deploy: Progress... ', prog);
+//     });
+//   };
 
+//   // Check Ionic Deploy for new code
+//   $scope.checkForUpdates = function() {
+//     console.log('Ionic Deploy: Checking for updates');
+//     deploy.check().then(function(hasUpdate) {
+//       console.log('Ionic Deploy: Update available: ' + hasUpdate);
+//       $scope.hasUpdate = hasUpdate;
+//     }, function(err) {
+//       console.error('Ionic Deploy: Unable to check for updates', err);
+//     });
+//   }
+// })
 
+// <button class="button button-primary button-block " ng-click="checkForUpdates()">
+//   Check for updates
+// </button>
+// <button class="button button-stable button-block button-pulse" ng-if="hasUpdate" ng-click="doUpdate()">
+//   download update
+// </button>
 
 
